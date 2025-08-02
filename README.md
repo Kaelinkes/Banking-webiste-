@@ -1,2 +1,2 @@
 # Banking-webiste-
-Basic php banking applinkcation on a webiste
+Basic php banking application on a webiste
